@@ -1,4 +1,4 @@
-# Hey I'm Tanush!
+# 👋 Hey I'm Tanush!
 ## 🐉 About me
 I am an undergraduate student at the **City University of Hong Kong**, majoring in **Computer and Data Engineering**, having recently completed an exchange semester at **Drexel University** in Philadelphia, PA. I have a strong background within computer science, computer engineering and data science backed through my various experiences. These focus areas include working with Python, C++, Java, R, UX/UI Design, Javascript, ReactJS, NextJS, RubyOnRails and RESTfulAPIs, as well as instructing tech bootcamps in Python, Chatbot Development, Web Development and Lua Programming to younger individuals! I am also a video editor and love creating different kinds of videos!
 
