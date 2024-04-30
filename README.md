@@ -1,5 +1,5 @@
 # Hey I'm Tanush!
-### I am an undergraduate student at the City University of Hong Kong, majoring in Computer and Data Engineering. I have a strong background within computer science, computer engineering and data sciencce backed through my various experiences. These focus areas include working with Python, C++, Java, R, Javascript, ReactJS, NextJS, RubyOnRails and RESTfulAPIs, as well as instructing CS curriculum in Python, Chatbot Development, Web Development and Lua Programming to younger individuals!
+I am an undergraduate student at the City University of Hong Kong, majoring in Computer and Data Engineering. I have a strong background within computer science, computer engineering and data sciencce backed through my various experiences. These focus areas include working with Python, C++, Java, R, Javascript, ReactJS, NextJS, RubyOnRails and RESTfulAPIs, as well as instructing CS curriculum in Python, Chatbot Development, Web Development and Lua Programming to younger individuals!
 <!--
 **tanushchangani3/tanushchangani3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
