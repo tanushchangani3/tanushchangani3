@@ -7,8 +7,8 @@ I love contributing to and leading new innovative tech solutions, whether it be 
 Reach out if you have any opportunities I may be interested in!
 
 ## 🏋🏽‍♂️ What's currently on the works:
+- Currently working as a Platform & DevOps Summer Intern in the Asia Enterprise Technology Office at **Manulife** / **John Hancock** in their Regional Headquarters in Hong Kong
 - Desiging and developing a prototype on Figma for a wellness practioner based web platform (Launching soon!)
-- Working on a smart traffic light management system through Arduino programming
 
 ## 📥 Contacts:
 Feel free to reach out to me via email or LinkedIn!
