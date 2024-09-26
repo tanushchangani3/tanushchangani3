@@ -7,7 +7,7 @@ I love contributing to and leading new innovative tech solutions, whether it be 
 Reach out if you have any opportunities I may be interested in!
 
 ## 🏋🏽‍♂️ What's currently on the works:
-- Participating at PennApps XXV hackathon at the **University of Pennsylvania**
+- Participating at the world's oldest and original hacakthon: PennApps XXV at the **University of Pennsylvania**
 - Desiging and developing a prototype on Figma for a wellness practioner based web platform (Launching soon!)
 
 ## My past hackathons and case competitions:
