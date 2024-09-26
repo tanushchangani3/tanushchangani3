@@ -11,16 +11,16 @@ Reach out if you have any opportunities I may be interested in!
 - Desiging and developing a prototype on Figma for a wellness practioner based web platform (Launching soon!)
 
 ## My past hackathons and case competitions:
-- City University of Hong Kong: CityHack 2022
-- HK Polytechnic University: PolyHack 2022
+- City University of Hong Kong: CityHack 2022 **(2 awards)**
+- HK Polytechnic University: PolyHack 2022 **(1 award)**
 - HSBC Case Competition 2022
-- Hong Kong Techathon 2023
+- Hong Kong Techathon 2023 **(finalist)**
 - City University of Hong Kong x HSBC FinTech Olympiad 2023
 - HK University of Science & Technology: hackUST 2023
 - HK Polytechnic University: PolyHack 2023
-- Morgan Stanley: Tech X Challenge 2023
-- University of Pennsylvania: PennApps XXV 2024
-
+- Morgan Stanley: Tech X Challenge 2023 **(1 award)**
+- University of Pennsylvania: PennApps XXV 2024 **(1 award)**
+ 
 ## 📥 Contacts:
 Feel free to reach out to me via email or LinkedIn!
 - email: **tanushchangani3@gmail.com**
